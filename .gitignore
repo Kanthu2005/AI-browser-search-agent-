@@ -1,0 +1,22 @@
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variables & secrets
+.env
+*.env
+.env.*
+!.env.example
+
+# Vercel deployment metadata
+.vercel/
+
+# OS metadata
+.DS_Store
+Thumbs.db

@@ -1,0 +1,2 @@
+[tool.vercel]
+entrypoint = "google-search-agent.app.main:app"
